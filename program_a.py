@@ -14,7 +14,6 @@ def negative(filename):
 def black_and_white(filename):
     __convert("black_and_white",filename)
     
-
 def __convert(convert_type , filename):
     old_image = image.Image(filename)
     width,height = old_image.getWidth(),old_image.getHeight()
@@ -77,7 +76,7 @@ def write_in_file(altered_file_name):
     output.write(altered_file_name + "\n")
     output.close()
 
-grayscale("airplain.jpg")
+black_and_white("airplain.jpg")
 
 
 
