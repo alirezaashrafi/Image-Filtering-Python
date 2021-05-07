@@ -1,4 +1,4 @@
-# Image Filtering in Python (cImage,Turtle)
+# Applying Filters on Images Using Python (cImage,Turtle)
 
 #### The project has two parts.
 
