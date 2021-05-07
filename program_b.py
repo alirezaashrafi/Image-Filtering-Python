@@ -17,7 +17,7 @@ position_height = screen_height // -2
 
 
 for line in images:
-    image = line.replace("\n", "");
+    image = line.replace("\n", "")
     image_width, image_height = imagesize.get(image)
     screen.addshape(image)
     
