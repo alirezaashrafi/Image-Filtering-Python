@@ -10,22 +10,24 @@
 
 #### Covert to Grayscale
 
-![Grayscale](https://github.com/alirezaashrafi/Python-Easy-Image-Processing/raw/master/demos/gray-scale.png)
+![Grayscale Python](https://github.com/alirezaashrafi/Python-Easy-Image-Processing/raw/master/demos/gray-scale.png)
 
 #### Covert to Black and White
 
-![Sepia tone](https://github.com/alirezaashrafi/Python-Easy-Image-Processing/raw/master/demos/black-and-white.png)
+![Black and White Python](https://github.com/alirezaashrafi/Python-Easy-Image-Processing/raw/master/demos/black-and-white.png)
 
 #### Covert to Negative
 
-![Sepia tone](https://github.com/alirezaashrafi/Python-Easy-Image-Processing/raw/master/demos/negative.png)
+![Negative Python](https://github.com/alirezaashrafi/Python-Easy-Image-Processing/raw/master/demos/negative.png)
 
 #### Covert to Sepia tone
 
-![Sepia tone](https://github.com/alirezaashrafi/Python-Easy-Image-Processing/raw/master/demos/sepia-tone.png)
+![Sepia tone Python](https://github.com/alirezaashrafi/Python-Easy-Image-Processing/raw/master/demos/sepia-tone.png)
 
 ## Program B (Display by Turtle)
 
 ![outputs have been displayed by turtle](https://github.com/alirezaashrafi/Python-Easy-Image-Processing/raw/master/demos/outputs-by-turtle.png)
 
-Note: **Thonny** has been used as Editor (IDE) in this project.
+- Note: **Thonny** has been used as Editor (IDE) in this project.
+- Make sure you haven't forgotten the star.
+- My Email: <alirezaashrafi.ir@gmail.com>
