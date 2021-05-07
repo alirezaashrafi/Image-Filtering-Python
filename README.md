@@ -10,22 +10,22 @@
 
 #### Covert to Grayscale
 
-![Grayscale](https://github.com/alirezaashrafi/Python-Easy-Image-Processing/raw/master/demo/gray-scale.png)
+![Grayscale](https://github.com/alirezaashrafi/Python-Easy-Image-Processing/raw/master/demos/gray-scale.png)
 
 #### Covert to Black and White
 
-![Sepia tone](https://github.com/alirezaashrafi/Python-Easy-Image-Processing/raw/master/demo/black-and-white.png)
+![Sepia tone](https://github.com/alirezaashrafi/Python-Easy-Image-Processing/raw/master/demos/black-and-white.png)
 
 #### Covert to Negative
 
-![Sepia tone](https://github.com/alirezaashrafi/Python-Easy-Image-Processing/raw/master/demo/negative.png)
+![Sepia tone](https://github.com/alirezaashrafi/Python-Easy-Image-Processing/raw/master/demos/negative.png)
 
 #### Covert to Sepia tone
 
-![Sepia tone](https://github.com/alirezaashrafi/Python-Easy-Image-Processing/raw/master/demo/sepia-tone.png)
+![Sepia tone](https://github.com/alirezaashrafi/Python-Easy-Image-Processing/raw/master/demos/sepia-tone.png)
 
 ## Program B (Display by Turtle)
 
-![outputs have been displayed by turtle](https://github.com/alirezaashrafi/Python-Easy-Image-Processing/raw/master/demo/outputs-by-turtle.png)
+![outputs have been displayed by turtle](https://github.com/alirezaashrafi/Python-Easy-Image-Processing/raw/master/demos/outputs-by-turtle.png)
 
 Note: **Thonny** has been used as Editor (IDE) in this project.
