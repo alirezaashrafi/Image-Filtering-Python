@@ -24,7 +24,7 @@
 
 ![Sepia tone](https://github.com/alirezaashrafi/Python-Easy-Image-Processing/raw/master/demo/sepia-tone.png)
 
-## Program B (Display Images by Turtle)
+## Program B (Display by Turtle)
 
 ![outputs have been displayed by turtle](https://github.com/alirezaashrafi/Python-Easy-Image-Processing/raw/master/demo/outputs-by-turtle.png)
 
