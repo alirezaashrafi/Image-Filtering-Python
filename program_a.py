@@ -1,7 +1,5 @@
 import cImage as image
 
-
-
 def grayscale(filename):
     __convert("grayscale",filename)
     
@@ -54,9 +52,11 @@ def __convert(convert_type , filename):
             new_image.setPixel( col , row , new_pixel )
             
             
-    show_images(old_image,new_image)
-    new_file_name = convert_type + "@" + filename;
+    new_file_name = convert_type + "@" + filename
     save_image_as_gif(new_image, new_file_name)
+
+    # show_images(old_image,new_image)
+
     
 def show_images(old_image,new_image):
     width,height = old_image.getWidth(),old_image.getHeight()
@@ -76,7 +76,7 @@ def write_in_file(altered_file_name):
     output.write(altered_file_name + "\n")
     output.close()
 
-black_and_white("airplain.jpg")
+negative("airplain.jpg")
 
 
 

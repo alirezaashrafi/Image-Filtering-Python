@@ -4,7 +4,7 @@ import imagesize
 screen_width, screen_height = 1000, 800
 
 
-altered_images = open('altered_images.txt', 'r')
+altered_images = open('outputs.txt', 'r')
 images = altered_images.readlines()[-4:]
  
 screen = turtle.Screen()

@@ -1,1 +1,4 @@
+outputs/black_and_white@airplain.jpg.gif
 outputs/grayscale@airplain.jpg.gif
+outputs/sepia_tone@airplain.jpg.gif
+outputs/negative@airplain.jpg.gif
